@@ -64,3 +64,4 @@ Developed by: RegisterNumber:*/ SHRUTHI D.N
 
 
 **Result:**
+Thus a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
